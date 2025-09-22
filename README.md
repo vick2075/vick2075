@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Vick
 - 👀 I’m interested in math, physics & cosmology
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on stiff ODE solvers implementation in Python
+- 💞️ I do stiff ODE solvers implementation in Python
 - 📫 How to reach me: testrope7@protonmail.com
 
 <!---
